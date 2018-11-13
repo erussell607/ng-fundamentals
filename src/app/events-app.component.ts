@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   template: '<h2>Hello World</h2>'
 })
 export class EventsAppComponent {
-  title = 'app';
+  title = 'app-test';
 }
